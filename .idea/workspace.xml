@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c7ab7b7-6a60-4cb8-98d7-bca19c4ff08f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/ca/sheridancollege/vuhoan/controllers/HomeController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ca/sheridancollege/vuhoan/controllers/ContactController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ca/sheridancollege/vuhoan/database/DatabaseAccess.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ca/sheridancollege/vuhoan/security/SecurityConfig.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ca/sheridancollege/vuhoan/beans/Contact.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="20V8PyWgXyxivLJZBjOUxKF5fuY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Sheridan2023\Term3\PROG32758 Enterprise Java\Assignment3\src\main\resources\static\images" />
+      <recent name="C:\Sheridan2023\Term3\PROG32758 Enterprise Java\lec82_security_Last_version\lec82_security\src\main\resources" />
+      <recent name="C:\Users\ahmad\lec82_security\src\main\resources" />
+      <recent name="C:\Users\ahmad\lec82_security\src\main\resources\templates\error" />
+      <recent name="C:\Users\ahmad\lec82_security\src\main\resources\templates\secure" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Sheridan2023\Term3\PROG32758 Enterprise Java\lec82_security_Last_version\lec82_security\src\main\resources\static\images" />
+      <recent name="C:\Users\ahmad\lec82_security\src\main\resources\static.images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EncryptPassword">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncryptPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.sheridancollege.vuhoan.EncryptPassword" />
+      <module name="Online Contacts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.sheridancollege.vuhoan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lec82SecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Assignment3_Hoang_Vu" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ca.sheridancollege.vuhoan.Lec82SecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EncryptPassword" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c7ab7b7-6a60-4cb8-98d7-bca19c4ff08f" name="Default Changelist" comment="" />
+      <created>1636118374430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636118374430</updated>
+      <workItem from="1636118375868" duration="3646000" />
+      <workItem from="1636384261179" duration="7263000" />
+      <workItem from="1636391737564" duration="48000" />
+      <workItem from="1636723455646" duration="5863000" />
+      <workItem from="1636730589454" duration="5284000" />
+      <workItem from="1637884854972" duration="7069000" />
+      <workItem from="1637893817888" duration="208000" />
+      <workItem from="1637958370245" duration="632000" />
+      <workItem from="1638839308636" duration="2675000" />
+      <workItem from="1639097482163" duration="25493000" />
+      <workItem from="1639124127357" duration="5527000" />
+      <workItem from="1639165806772" duration="428000" />
+      <workItem from="1639166361693" duration="4754000" />
+      <workItem from="1639176837594" duration="1356000" />
+      <workItem from="1639179002751" duration="231000" />
+      <workItem from="1639762977122" duration="2547000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lec82_security$EncryptPassword.ic" NAME="EncryptPassword Coverage Results" MODIFIED="1637891335328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ca.sheridancollege.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Assignment3$Lec82SecurityApplication.ic" NAME="Lec82SecurityApplication Coverage Results" MODIFIED="1639129442955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Assignment3$EncryptPassword.ic" NAME="EncryptPassword Coverage Results" MODIFIED="1639102712875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ca.sheridancollege.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Assignment3_Hoang_Vu$Lec82SecurityApplication.ic" NAME="Lec82SecurityApplication Coverage Results" MODIFIED="1639178296574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Assignment3_Hoang_Vu$EncryptPassword.ic" NAME="EncryptPassword Coverage Results" MODIFIED="1639179033721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ca.sheridancollege.vuhoan.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lec82to92_security$Lec82SecurityApplication.ic" NAME="Lec82SecurityApplication Coverage Results" MODIFIED="1638839427996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/lec82_security$Lec82SecurityApplication.ic" NAME="Lec82SecurityApplication Coverage Results" MODIFIED="1637890681095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
