@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html xmlns:th="https://www.thymeleaf.org" xmlns:sec="https://www.thymeleaf.org/thymeleaf-extras-springsecurity5">
+<head>
+    <meta charset="UTF-8">
+    <title>View Contacts</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+<header th:insert="fragments/format.html :: header"></header>
+<h1>View Contacts</h1>
+<table th:if="${contactList != null && contactList != ''}">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Phone</th>
+        <th>Email</th>
+        <th>Address</th>
+        <th>Role(s)</th>
+        <th>Options</th>
+    </tr>
+    <tr th:each="c: ${contactList}">
+        <td th:text="${c.id}"></td>
+        <td th:text="${c.name}"></td>
+        <td th:text="${c.phone}"></td>
+        <td th:text="${c.email}"></td>
+        <td th:text="${c.address}"></td>
+        <td th:text="${c.role}"></td>
+        <td><a th:href="@{/editContactById/}+${c.id}">Edit</a>
+            <a th:href="@{/deleteContactById/}+${c.id}">Delete</a></td>
+    </tr>
+</table>
+
+<br>
+<br>
+<footer th:insert="fragments/format.html :: footer"></footer>
+</body>
+</html>

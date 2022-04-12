@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:sec="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div th:fragment="header">
+        <a th:href="@{/}">Home</a> |
+        <a th:href="@{/secure/addContact}">Add</a> |
+        <a th:href="@{/secure/listContact}">List Contact</a> |
+        <a th:href="@{/register}">Register</a> |
+        <a sec:authorize="isAuthenticated()" th:href="@{/logout}">Logout</a>
+    </div>
+    <div th:fragment="footer">
+        <span id="footer-copyright" style="font-size:10pt;">
+        © 2021 by HOANG VU All rights reserved.</span>
+    </div>
+</body>
+</html>
